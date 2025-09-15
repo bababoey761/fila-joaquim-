@@ -20,7 +20,7 @@ Este projeto foi desenvolvido para demonstrar a evolução de um sistema de gere
 
 ---
 
-### **2. `fila_2.py` — Estruturação da Fila**
+### **2. [`fila_2.py`](./fila_2.py) — Estruturação da Fila**
 
 - **Objetivo:** Criar uma fila que armazena várias pessoas e identifica prioridades.
 - **Funcionamento:**  
@@ -33,7 +33,7 @@ Este projeto foi desenvolvido para demonstrar a evolução de um sistema de gere
 
 ---
 
-### **3. `fila_3.py` — Menu Interativo**
+### **3. [`fila_3.py`](./fila_3.py) — Menu Interativo**
 
 - **Objetivo:** Facilitar a interação do usuário com o sistema.
 - **Funcionamento:**  
@@ -45,7 +45,7 @@ Este projeto foi desenvolvido para demonstrar a evolução de um sistema de gere
 
 ---
 
-### **4. `fila_4.py` — Estatísticas e Funcionalidades Avançadas**
+### **4. [`fila_4.py`](./fila_4.py) — Estatísticas e Funcionalidades Avançadas**
 - **Nota:** Em vez de separar, organizei todos em um fila colocar os priorítarios como priorirade
 - **Objetivo:** Aprimorar o sistema com estatísticas e controle de atendimento.
 - **Funcionamento:**  
