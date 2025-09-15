@@ -46,7 +46,7 @@ Este projeto foi desenvolvido para demonstrar a evolução de um sistema de gere
 ---
 
 ### **4. [`fila_4.py`](./fila_4.py) — Estatísticas e Funcionalidades Avançadas**
-- **Nota:** Em vez de separar, organizei todos em um fila colocar os priorítarios como priorirade
+- **Nota:** Em vez de separar, organizei todos em um fila unica colocando os priorítarios como priorirade
 - **Objetivo:** Aprimorar o sistema com estatísticas e controle de atendimento.
 - **Funcionamento:**  
   - Mantém o controle de quantas pessoas já foram atendidas.
