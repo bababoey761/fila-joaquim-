@@ -8,7 +8,7 @@ Este projeto foi desenvolvido para demonstrar a evolução de um sistema de gere
 
 ## Etapas do Projeto
 
-### **1. `fila_1.py` — Identificação de Prioridade**
+### **1. [`fila_1.py`].(./fila_1.py) — Identificação de Prioridade**
 
 - **Objetivo:** Identificar se uma pessoa é prioritária ou não.
 - **Funcionamento:**  
