@@ -48,7 +48,7 @@ def add():
             "necessidade": esp
         }
         fila.append(pessoa)
-        fila.sort(key=lambda x: not x["prioridade"])
+        fila.sort(key=lambda x: (not x["prioridade"], x["ordem"]))
         break
 
 def mostrar():
