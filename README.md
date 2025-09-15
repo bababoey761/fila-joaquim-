@@ -2,7 +2,7 @@
 
 
 
-Este projeto foi desenvolvido para demonstrar a evolução de um sistema de gerenciamento de filas com prioridade, utilizando a linguagem Python. O objetivo é simular o atendimento em locais onde pessoas com necessidades especiais ou idosos têm prioridade, seguindo as normas de acessibilidade e atendimento preferencial.
+Este projeto foi desenvolvido para demonstrar a evolução de um sistema de gerenciamento de filas com prioridade, utilizando a linguagem Python. O objetivo é simular o atendimento em locais onde pessoas com necessidades especiais ou idosos têm prioridade.
 
 ---
 
